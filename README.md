@@ -1,16 +1,10 @@
 # flutter_card_swiper_example
 
-A new Flutter project.
+Flutter Card Swiper Example Project 
 
-## Getting Started
+## Occasions for use
 
-This project is a starting point for a Flutter application.
+When developing a dating SNS, this package can be used. Additionally, it is recommended for C2C commerce applications where products can be introduced, for instance, by using a card to display recommended products based on a user's purchase history. Essentially, it is recommended for use in dating SNS apps.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video
